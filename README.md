@@ -25,8 +25,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 ## Deployment Link :
 Heroku Deployment
 
-https://insurance--prediction.herokuapp.com/
-
+to be added
 ## Web Inerface :
 ![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/home.png)
 
