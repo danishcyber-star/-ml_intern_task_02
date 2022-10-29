@@ -1,4 +1,4 @@
-# My workflow name.
+# Your workflow name.
 name: Deploy to heroku.
 
 # Run workflow on every push to main branch.
@@ -13,7 +13,6 @@ jobs:
     steps:
       # Check-out your repository.
       - name: Checkout
-      
         uses: actions/checkout@v2
 
 
