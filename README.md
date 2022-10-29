@@ -26,18 +26,6 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 Heroku Deployment
 
 to be added
-## Web Inerface :
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/home.png)
-
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/trained.png)
-
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/experiment.png)
-
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/predict.png)
-
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/log.png)
-
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/artifact.png)
 
 ## Libraries used :
     1) Pandas
