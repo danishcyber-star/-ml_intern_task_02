@@ -4,8 +4,8 @@ from typing import List
 #Declaring variables from setup functions
 PROJECT_NAME="Insurace_premium_prediction"
 VERSION="0.0.3"
-AUTHOR="DEEPAK RAUTELLA"
-DESCRIPTION="This is my first self made project"
+AUTHOR="Danish Alam"
+DESCRIPTION="This is my new project"
 REQUIREMENT_FILE_NAME="requirements.txt"
 
 HYPEN_E_DOT="-e ."
