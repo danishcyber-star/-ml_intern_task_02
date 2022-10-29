@@ -25,7 +25,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 ## Deployment Link :
 Heroku Deployment:
 
-to be added
+https://ml-task-02.herokuapp.com/
 
 ## Libraries used :
     1) Pandas
