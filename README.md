@@ -32,11 +32,11 @@ https://ml-task-02.herokuapp.com/
 
 ![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/experiment.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/predict.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/predict.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/logs.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/logs.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/artifacts.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/artifacts.png)
 
 ## Libraries used :
     1) Pandas
