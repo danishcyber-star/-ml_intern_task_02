@@ -27,6 +27,20 @@ Heroku Deployment:
 
 https://ml-task-02.herokuapp.com/
 
+
+## Web Inerface :
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/home.png)
+
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/trained.png)
+
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/experiment.jpeg)
+
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/predict.png)
+
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/log.png)
+
+![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/artifact.png)
+
 ## Libraries used :
     1) Pandas
     2) Numpy
