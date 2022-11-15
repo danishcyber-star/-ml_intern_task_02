@@ -28,15 +28,15 @@ Heroku Deployment here
 https://ml-task-02.herokuapp.com/
 
 ## Web Inerface :
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/home.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/home.png)
 
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/experiment.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/experiment.png)
 
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/predict.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/predict.png)
 
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/log.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/logs.png)
 
-![alt text](https://github.com/DeepakRautella/Insurance_Premium_Prediction/blob/main/images/artifact.png)
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/artifacts.png)
 
 ## Libraries used :
     1) Pandas
