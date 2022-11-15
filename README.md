@@ -28,7 +28,8 @@ Heroku Deployment here
 https://ml-task-02.herokuapp.com/
 
 ## Web Inerface :
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/home.png)
+
+![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/home.png)
 
 ![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/experiment.png)
 
