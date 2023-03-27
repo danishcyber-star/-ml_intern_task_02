@@ -26,6 +26,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 Heroku Deployment here
 
 https://ml-task-02.herokuapp.com/
+https://new-check-app.onrender.com/
 
 ## Web Inerface :
 
