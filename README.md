@@ -57,4 +57,4 @@ https://railway.app/project/da16c2c8-2de2-4cc1-9885-c01a5a40d9c5
     1) Python 
     2) Front-end : HTML, CSS
     3) Back-end : Flask
-    4) Deployment : Heruko
+    4) Deployment : AWS, Heruko, Railway, Render
